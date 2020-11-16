@@ -49,6 +49,7 @@ fractions_time_plain = []
 predictions_plain = []
 fractions_time_beta = []
 predictions_beta = []
+xyz=0
 
 for _ in range(NUM_SAMPLES_CATCHUP):
 	size = pan_plain_1.size()
