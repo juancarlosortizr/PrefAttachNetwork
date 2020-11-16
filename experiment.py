@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from PrefAttachNetwork import *
 
 FINAL_SIZE = 1000
+xyz=1
 NUM_SAMPLES_CATCHUP = 1
 
 plt.rc('xtick', labelsize=13)
